@@ -2,7 +2,7 @@ import tkinter as tk
 from datetime import datetime, timedelta
 
 #Seting the target date for the countdown
-TARGET_DATE = datetime(2025, 7, 12, 0, 0, 0)
+TARGET_DATE = datetime(2026, 7, 12, 0, 0, 0)
 
 def update_countdown():
     now = datetime.now()

@@ -23,7 +23,7 @@ root = tk.Tk()
 root.title("Nike Slogan Picker")
 
 # Set the size of the window
-slogan_label = tk.Label(root, text="Click the button foa a Nike slogan!",font=("Arial", 14), wraplength=300)
+slogan_label = tk.Label(root, text="Click the button for a Nike slogan!",font=("Arial", 14), wraplength=300)
 # Pack the label into the window
 slogan_label.pack(pady=20)
 
