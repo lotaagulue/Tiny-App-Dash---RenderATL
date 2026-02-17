@@ -1,33 +1,33 @@
 # Tiny App Dash RenderATL 2025
 ## These are a collection of Python Game Apps built using Github Copilot
 
-Click the Sneaker Game
-Click the sneaker on the screen to score points
-![Click The Sneaker Game](images/ctsg.png)
+Click the Sneaker Game/n
+Click the sneaker on the screen to score points/n
+![Click The Sneaker Game](images/ctsg.png)/n
 
-Countdown App
-![](images/ca.png)
+Countdown App/n
+![Countdown App](images/ca.png)
 
-guess_the_sneaker_game
-![](images/)
+Guess The Sneaker Game/n
+![Guess The Sneaker Game](images/gtsg.png)
 
-jumping_sneaker_game
-![](images/)
+Jumping Sneaker Game/n
+![Jumping Sneaker Game](images/jsg.png)
 
-nike_slogan_app
-![](images/)
+Nike Slogan App/n
+![Nike Slogan App](images/nsa.png)
 
-Shoe_Color_Switcher
-![](images/)
+Shoe Color Switcher/n
+![Shoe Color Switcher](images/scs.png)
 
-sneaker_dodge_game
-![](images/)
+Sneaker Dodge Game/n
+![Sneaker Dodge Game](images/sdg.png)
 
-sneaker_memory_game
-![](images/)
+Sneaker Memory Game/n
+![Sneaker Memory Game](images/smg.png)
 
-sneaker_picker_app
-![](images/)
+Sneaker Picker App/n
+![Sneaker Picker App](images/spa.png)
 
-sneaker_wish_list
-![](images/)
+Sneaker Wish List/n
+![Sneaker Wish List](images/swl.png)
